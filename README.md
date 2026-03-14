@@ -72,6 +72,12 @@ if __name__ == "__main__":
 ~~~
 ### OUTPUT
 
+![image.alt](https://github.com/Harshinivelavan/19AI405ProjExp/blob/0865bf2d776900675f75c00abde03a835f4e14a9/Screenshot%202026-03-14%20135245.png)
+
+
+### RESULT
+
+Thus the python program to implement a sudoko solver from scratch is executed sucessfully.
 
 
 
